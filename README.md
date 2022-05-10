@@ -7,3 +7,6 @@ Es wurden zwei Verfahren entwickelt, welches die Aufgabe hat, eine Datei mit ang
 Damit die Skripts funktioniern, muss die Python-Bibliothek reedsolo installiert werden - https://github.com/tomerfiliba/reedsolomon#installation. 
 
 SBxGV1
+
+Encode a file, to save it on a data storage
+
