@@ -10,3 +10,4 @@ SBxGV1
 
 Encode a file, to save it on a data storage
 
+![sbxenc](https://user-images.githubusercontent.com/94125966/167736343-9a3bef60-e2a4-455e-b427-65940ea5c5d7.JPG)
