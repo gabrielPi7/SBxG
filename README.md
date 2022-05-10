@@ -11,7 +11,10 @@ SBxGV1
 Encode a file, to save it on a data storage
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+(venv) C:\Users\Privat\PycharmProjects\Bachelorarbeit>codeSBxG.py test.txt
+This codec can correct up to 8 errors and 16 erasures independently
+1 = Encode - 2 = Decode.
+1
+100% abgeschlossen
+
 ```
