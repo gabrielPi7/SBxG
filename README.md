@@ -4,7 +4,7 @@ Dies ist eine Weiterentwicklung vom Verfahren "SeqBox - Sequenced Box container"
 
 Es wurden zwei Verfahren entwickelt, welches die Aufgabe hat, eine Datei mit beigefügten Informationen auf einem Datenträger vor Verlust durch defekte Bytes zu schützen. Dazu wurde das "SeqBox"-Verfahren mit dem Sicherungsverfahren "Reed-Solomon-Codes" kombiniert.
 
-Damit die Skripts funktioniern, muss die Python-Bibliothek reedsolo installiert werden - https://github.com/tomerfiliba/reedsolomon#installation. 
+Damit die Skripts funktioniert, muss die Python-Bibliothek reedsolo installiert werden - https://github.com/tomerfiliba/reedsolomon#installation. 
 
 ## SBxGV1
 
